@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="pagInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_areaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="confirmReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_dadosPessoais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_historicoReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_novaReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_reservaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resultadoPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
